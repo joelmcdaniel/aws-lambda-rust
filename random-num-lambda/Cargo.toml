@@ -1,0 +1,11 @@
+[package]
+name = "random-num-lambda"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lambda_runtime = "0.5"
+rand = "0.5"
+serde = "1.0"
+serde_derive = "1.0"
+tokio = "1.17"
